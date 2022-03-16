@@ -9,6 +9,8 @@ map       - returns the current map
 open X Y  - opens cell at X,Y coordinates
 ```
 
+![Peek 2022-03-16 15-13](https://user-images.githubusercontent.com/43288800/158598299-66faeb2c-145f-45cc-9913-9db1931888ea.gif)
+
 # Result
 
 - GitHub repo
