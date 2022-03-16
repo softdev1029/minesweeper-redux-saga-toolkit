@@ -13,8 +13,8 @@ open X Y  - opens cell at X,Y coordinates
 
 # Result
 
-- GitHub repo
-- Netlify deployment
+- GitHub repo: https://github.com/softdev1029/minesweeper-redux-saga-toolkit
+- Netlify deployment: https://mystifying-bohr-09ab80.netlify.app/
 
 # Tech Stack
 
